@@ -9,7 +9,7 @@
 - 📱 Apasionado por crear aplicaciones nativas para Android.
 - 🌟 Aplico buenas prácticas de diseño de interfaz y experiencia de usuario.
 - 🚀 Constantemente aprendiendo y mejorando mis habilidades en el desarrollo de aplicaciones móviles.
-- 🎓 Graduado en [I.E.S. Núm 1 Xàbia].
+- 🎓 Titulado en Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma.
 
 
 ## Skills
