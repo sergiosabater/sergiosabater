@@ -14,22 +14,14 @@
 
 ## Skills
 
-Una lista de las habilidades que he adquirido a lo largo de mi trayectoria como desarrollador Android:
-
-- Kotlin
-- Android SDK
-- MVVM
-- Retrofit
-- Room
-- Firebase
-- Git
+[![My Skills](https://skillicons.dev/icons?i=kotlin,ktor,java,git,androidstudio,firebase,github,githubactions,gitlab,mysql,postman,figma&theme=light)](https://skillicons.dev)
 
 
 ## Trayectoria profesional
 
-- 2008-2012: Técnico en sistemas microinformáticos
-- 2012-2017: Técnico en instalaciones de redes de area local
 - 2019-presente: Desarrollador Android
+- 2012-2017: Técnico en instalaciones de redes de area local
+- 2008-2012: Técnico en sistemas microinformáticos
 
 
 ## Proyectos destacados
