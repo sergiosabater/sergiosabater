@@ -28,17 +28,18 @@
 
 Aquí tienes algunos de mis proyectos destacados:
 
-### SmartCurrency
-
-**SmartCurrency** es una app de conversión de monedas sencilla y fácil de usar. Permite a los usuarios realizar conversiones entre diferentes divisas de forma rápida e intuitiva. La aplicación utiliza una API en tiempo real para obtener las tasas de cambio más actualizadas.
-
-🚧 Este proyecto está en construcción.
-
-### MyFit
-
-**MyFit** es una aplicación de registro diario de actividad física, diseñada para ayudar a los usuarios a llevar un seguimiento de sus entrenamientos y rutinas deportivas. Creada con Kotlin y Jetpack Compose, la aplicación proporciona una interfaz moderna y fácil de usar, con características como la visualización en calendario y registro diario de actividades.
-
-🚧 Este proyecto está en construcción.
+>### SmartCurrency
+>
+>**SmartCurrency** es una app de conversión de monedas sencilla y fácil de usar. Permite a los usuarios realizar conversiones entre diferentes divisas de forma rápida e intuitiva. La aplicación utiliza una API en tiempo real para obtener las tasas de cambio más actualizadas.
+>
+>🚧 Este proyecto está en construcción.
+>
+>
+>### MyFit
+>
+>**MyFit** es una aplicación de registro diario de actividad física, diseñada para ayudar a los usuarios a llevar un seguimiento de sus entrenamientos y rutinas deportivas. Creada con Kotlin y Jetpack Compose, la aplicación proporciona una interfaz moderna y fácil de usar, con características como la visualización en calendario y registro diario de actividades.
+>
+>🚧 Este proyecto está en construcción.
 
 
 ## Contáctame
