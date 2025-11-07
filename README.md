@@ -1,51 +1,70 @@
-# ¡Hola, soy Sergio Sabater!
+# 👋 Hi, I'm Sergio Sabater!
 
-¡Bienvenido(a) a mi perfil de GitHub! Soy un apasionado desarrollador Android al que le encanta crear aplicaciones móviles y explorar nuevas tecnologías para mejorar la experiencia del usuario.
+Welcome to my GitHub profile!  
+I'm a passionate **Android Developer** who loves building mobile apps and exploring new technologies to create meaningful and enjoyable user experiences.
 
+---
 
-## Sobre mí
+## 🧑‍💻 About Me
 
-- 💻 Desarrollador Android desde 2019 con experiencia en desarrollo nativo en Kotlin.
-- 📱 Apasionado por crear aplicaciones útiles, sencillas y modernas.
-- 🌟 Aplico buenas prácticas de diseño de interfaz y experiencia de usuario.
-- 🚀 Constantemente aprendiendo y mejorando mis habilidades en el desarrollo de aplicaciones móviles.
-- 🎓 Titulado en Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma.
+- 💻 Android developer since **2019**, experienced in **native Kotlin development**.  
+- 📱 Passionate about creating **useful, simple, and modern** applications.  
+- 🌟 Focused on applying **best UI/UX design practices** to deliver intuitive interfaces.  
+- 🚀 Continuously learning and improving my skills in **mobile app development**.  
+- 🎓 Higher Degree in **Multi-Platform Application Development**.  
+- 🌍 Interested in **clean architecture, Jetpack Compose**, and scalable app design.  
 
+---
 
-## Skills
+## 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,ktor,java,git,androidstudio,firebase,github,githubactions,gitlab,mysql,postman,figma&theme=light)](https://skillicons.dev)
 
+---
 
-## Trayectoria profesional
+## 💼 Professional Experience
 
-- 2019-presente: Desarrollador Android
-- 2012-2017: Técnico en instalaciones de redes de area local
-- 2008-2012: Técnico en sistemas microinformáticos
+- **2019–Present** — *Android Developer*  
+  Working on designing, developing, and maintaining Android applications using **Kotlin**, **Jetpack Compose**, and **MVVM architecture**.
 
+- **2012–2017** — *Local Area Network Installation Technician*  
+  Installation and configuration of network infrastructure and devices.
 
-## Proyectos destacados
+- **2008–2012** — *Computer Systems Technician*  
+  Maintenance and support of IT systems and hardware.
 
-Aquí tienes algunos de mis proyectos destacados:
+---
 
->### SmartCurrency
+## 🚀 Featured Projects
+
+>### 💱 SmartCurrency
 >
->**SmartCurrency** es una app de conversión de monedas sencilla y fácil de usar. Permite a los usuarios realizar conversiones entre diferentes divisas de forma rápida e intuitiva. La aplicación utiliza una API en tiempo real para obtener las tasas de cambio más actualizadas.
+>**SmartCurrency** is a simple and user-friendly currency converter app.  
+>It enables users to perform quick and intuitive conversions between multiple currencies using a **real-time API** to fetch the latest exchange rates.  
 >
->🚧 Este proyecto está en construcción.
->
->
->### MyFit
->
->**MyFit** es una aplicación de registro diario de actividad física, diseñada para ayudar a los usuarios a llevar un seguimiento de sus entrenamientos y rutinas deportivas. Creada con Kotlin y Jetpack Compose, la aplicación proporciona una interfaz moderna y fácil de usar, con características como la visualización en calendario y registro diario de actividades.
->
->🚧 Este proyecto está en construcción.
+>🧩 **Tech Stack:** Kotlin, Jetpack Compose, Retrofit, MVVM, Coroutines  
+>🚧 *This project is currently under development.*
 
+---
 
-## Contáctame
+>### 💪 MyFit
+>
+>**MyFit** is a daily fitness tracking app designed to help users monitor their workouts and routines.  
+>Built with **Kotlin** and **Jetpack Compose**, it offers a **modern and clean interface**, featuring calendar visualization and daily activity logs.  
+>
+>🧩 **Tech Stack:** Kotlin, Jetpack Compose, Room, ViewModel, Flow  
+>🚧 *This project is currently under development.*
 
-Si buscas un desarrollador con experiencia, con una trayectoria profesional sólida, alguien que pueda aportar valor a un equipo de desarrollo, o simplemente quieres charlar sobre Android, no dudes en contactarme:
+---
 
-- Email: [sergiosabater@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/sergio-sm/]
-- Twitter: [https://twitter.com/sergiosabater_]
+## 📬 Get in Touch
+
+If you're looking for an **experienced Android developer** with a solid background, someone who can bring **value, creativity, and reliability** to your team — or if you simply want to chat about Android and app design — feel free to reach out:
+
+- 📧 **Email:** [sergiosabater@gmail.com](mailto:sergiosabater@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/sergio-sm](https://www.linkedin.com/in/sergio-sm/)  
+- 🐦 **Twitter (X):** [@sergiosabater_](https://twitter.com/sergiosabater_)  
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and leave a star if you like what you see.*
