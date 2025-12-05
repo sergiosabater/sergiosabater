@@ -18,14 +18,17 @@ I'm a passionate **Android Developer** who loves building mobile apps and explor
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,ktor,java,git,androidstudio,firebase,github,githubactions,gitlab,mysql,postman,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,flutter,dart,ktor,java,git,androidstudio,firebase,github,githubactions,gitlab,mysql,postman,figma&theme=light)](https://skillicons.dev)
 
 ---
 
 ## 💼 Professional Experience
 
+- **2025–Present** — *Flutter Developer*  
+  Developing cross-platform mobile applications using **Flutter**, **Dart**, **Material Design 3**, and modern architectural patterns. Experience integrating APIs, managing state (Bloc / Provider / Riverpod), and building performant UIs.
+
 - **2019–Present** — *Android Developer*  
-  Working on designing, developing, and maintaining Android applications using **Kotlin**, **Jetpack Compose**, and **MVVM architecture**.
+  Designing, developing, and maintaining Android applications using **Kotlin**, **Jetpack Compose**, and **MVVM architecture**.
 
 - **2012–2017** — *Local Area Network Installation Technician*  
   Installation and configuration of network infrastructure and devices.
