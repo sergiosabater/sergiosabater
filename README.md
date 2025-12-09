@@ -1,18 +1,20 @@
 # 👋 Hi, I'm Sergio Sabater!
 
 Welcome to my GitHub profile!  
-I'm a passionate **Android Developer** who loves building mobile apps and exploring new technologies to create meaningful and enjoyable user experiences.
+I'm a passionate **Mobile Developer** with a strong background in **Android (Kotlin)** and, since **2025**, also **Flutter**.  
+I love building high-quality mobile apps and exploring new technologies to create meaningful and enjoyable user experiences.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💻 Android developer since **2019**, experienced in **native Kotlin development**.  
-- 📱 Passionate about creating **useful, simple, and modern** applications.  
-- 🌟 Focused on applying **best UI/UX design practices** to deliver intuitive interfaces.  
-- 🚀 Continuously learning and improving my skills in **mobile app development**.  
+- 📱 **Mobile Developer** — Android since **2019** and Flutter since **2025**.  
+- 💻 Experienced in **native Kotlin development** and **cross-platform apps with Flutter**.  
+- 🌟 Passionate about creating **useful, simple, and modern** applications.  
+- 🎨 Focused on applying **best UI/UX design practices** to deliver intuitive and delightful interfaces.  
+- 🚀 Continuously learning and improving my skills in the world of **mobile app development**.  
 - 🎓 Higher Degree in **Multi-Platform Application Development**.  
-- 🌍 Interested in **clean architecture, Jetpack Compose**, and scalable app design.  
+- 🌍 Interested in **clean architecture, Jetpack Compose, Flutter UI**, and scalable app design.  
 
 ---
 
