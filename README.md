@@ -73,3 +73,10 @@ If you're looking for an **experienced Android developer** with a solid backgrou
 ---
 
 ⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and leave a star if you like what you see.*
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiosabater&theme=dark" />
+</p>
+
