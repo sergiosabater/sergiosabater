@@ -80,3 +80,10 @@ If you're looking for an **experienced Android developer** with a solid backgrou
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiosabater&theme=dark" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20visits%20-1.521-181717?style=flat" />
+</p>
+
+
