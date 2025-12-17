@@ -83,7 +83,7 @@ If you're looking for an **experienced Android developer** with a solid backgrou
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20visits%20-1.521-181717?style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sergiosabater&label=PROFILE%20VIEWS&color=000000&labelColor=000000&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 
