@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:02569B&height=200&section=header&text=Sergio%20Sabater&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Mobile%20App%20Developer%20%7C%20Kotlin%20%26%20Flutter&descAlignY=55&descSize=18" width="100%"/>
+# Sergio Sabater
+### Mobile App Developer · Kotlin & Flutter
 
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0175C2&center=true&vCenter=true&width=600&lines=Building+native+Android+apps+since+2019;Crafting+cross-platform+apps+with+Flutter;Clean+Architecture+%7C+MVVM+%7C+MVC;Turning+ideas+into+smooth+UX" alt="Typing SVG" />
 </a>
 
