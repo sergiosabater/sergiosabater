@@ -37,28 +37,28 @@
 
 <table>
 <tr>
-<td><b>2025–Present</b></td>
+<td><b>2025</b></td>
 <td>
 <b>Flutter Developer</b><br/>
 Developing cross-platform mobile applications using <b>Flutter</b>, <b>Dart</b>, <b>Material Design 3</b>, and modern architectural patterns. Experience integrating APIs, managing state (Bloc / Provider / Riverpod), and building performant UIs.
 </td>
 </tr>
 <tr>
-<td><b>2019–Present</b></td>
+<td><b>2019</b></td>
 <td>
 <b>Android Developer</b><br/>
 Designing, developing, and maintaining Android applications using <b>Kotlin</b>, <b>Jetpack Compose</b>, and <b>MVVM architecture</b>.
 </td>
 </tr>
 <tr>
-<td><b>2012–2017</b></td>
+<td><b>2012</b></td>
 <td>
 <b>Local Area Network Installation Technician</b><br/>
 Installation and configuration of network infrastructure and devices.
 </td>
 </tr>
 <tr>
-<td><b>2008–2012</b></td>
+<td><b>2008</b></td>
 <td>
 <b>Computer Systems Technician</b><br/>
 Maintenance and support of IT systems and hardware.
