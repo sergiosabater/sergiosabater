@@ -4,7 +4,7 @@
 ### Mobile App Developer · Kotlin & Flutter
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0175C2&center=true&vCenter=true&width=600&lines=Building+native+Android+apps+since+2019;Crafting+cross-platform+apps+with+Flutter;Clean+Architecture+%7C+MVVM+%7C+MVC;Turning+ideas+into+smooth+UX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0175C2&center=true&vCenter=true&width=600&lines=Building+native+Android+apps+since+2019;Crafting+cross-platform+apps+with+Flutter;Clean+Architecture+%7C+MVVM+%7C+Feature-First;Turning+ideas+into+smooth+UX" alt="Typing SVG" />
 </a>
 
 </div>
@@ -74,7 +74,7 @@ Maintenance and support of IT systems and hardware.
 
 **Money Tracker** is a personal finance tracking app built with **Flutter**, designed to help users manage income and expenses through a clean, intuitive interface with real-time balance updates and input validation.
 
-The project follows an **MVC-based layered architecture**, cleanly separating controllers, models, views, and local persistence for a scalable and maintainable codebase — with local database storage, custom reusable dialogs, and full **English/Spanish localization**.
+The project follows a **Feature-First + Clean Architecture (lightweight)** approach, organizing code by feature and splitting each one into `domain`, `data` and `presentation` layers. State is managed reactively with **Riverpod**, domain entities are immutable thanks to **Freezed**, persistence is handled through **SQLite** behind a **Repository pattern** (decoupling business logic from the data source), and navigation is fully declarative via **GoRouter**. The app also features a centralized design system (`AppColors` / `AppTheme`) that automatically adapts to the device's light/dark appearance setting.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/09b869ef-aaeb-47c9-abe8-4d7b763a6ea2" width="140">
@@ -84,12 +84,12 @@ The project follows an **MVC-based layered architecture**, cleanly separating co
 
 <div align="center">
 
-`Flutter` `Dart` `Provider/Riverpod` `SQLite/Hive` `fl_chart`
+`Flutter` `Dart` `Riverpod` `Freezed` `SQLite` `GoRouter` `Clean Architecture`
 
 </div>
 
-🏗️ **Architecture:** MVC-based layered architecture with reactive state management
-🔐 Local authentication-ready structure · 🌓 Dark & Light theming · 🌍 i18n (EN/ES)
+🏗️ **Architecture:** Feature-First + Clean Architecture with Riverpod, Freezed & Repository pattern
+🧭 Declarative navigation with GoRouter · 🌓 Centralized theming (system-aware Dark & Light) · 🌍 i18n-ready (EN/ES, with FR/DE/PL selectable) · 🔐 Security section scaffolded (PIN/biometrics UI ready)
 
 <div align="center">
 
