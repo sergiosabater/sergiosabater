@@ -93,7 +93,7 @@ The project follows a **Feature-First + Clean Architecture (lightweight)** appro
 
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/View_Repository-0175C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergiosabater/moneytracker)
+[![Repo](https://img.shields.io/badge/View_Repository-0175C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergiosabater/moneytracker-portfolio)
 
 </div>
 
