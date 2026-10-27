@@ -78,7 +78,7 @@ The project follows a **Feature-First + Clean Architecture (lightweight)** appro
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/48861074-2b8f-4c0b-b4eb-683d05946188" width="140">
-  <img src="https://github.com/user-attachments/assets/f568e549-521f-4ac3-9792-6f7e2d2b278f" width="140">
+  <img src="https://github.com/user-attachments/assets/93018bcf-9a6e-452e-80a5-355e27649aaa" width="140">
   <img src="https://github.com/user-attachments/assets/8aecec89-f4c8-4d6c-b971-38db4fba84f5" width="140">
 </div>
 
