@@ -77,7 +77,7 @@ Maintenance and support of IT systems and hardware.
 The project follows a **Feature-First + Clean Architecture (lightweight)** approach, organizing code by feature and splitting each one into `domain`, `data` and `presentation` layers. State is managed reactively with **Riverpod**, domain entities are immutable thanks to **Freezed**, persistence is handled through **SQLite** behind a **Repository pattern** (decoupling business logic from the data source), and navigation is fully declarative via **GoRouter**. The app also features a centralized design system (`AppColors` / `AppTheme`) that automatically adapts to the device's light/dark appearance setting.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/09b869ef-aaeb-47c9-abe8-4d7b763a6ea2" width="140">
+  <img src="https://github.com/user-attachments/assets/48861074-2b8f-4c0b-b4eb-683d05946188" width="140">
   <img src="https://github.com/user-attachments/assets/f568e549-521f-4ac3-9792-6f7e2d2b278f" width="140">
   <img src="https://github.com/user-attachments/assets/8aecec89-f4c8-4d6c-b971-38db4fba84f5" width="140">
 </div>
